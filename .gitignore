@@ -4,3 +4,5 @@
 .DS_Store
 Day **/aoctools.py
 **/constants.py
+**/venv
+**/__pycache__
